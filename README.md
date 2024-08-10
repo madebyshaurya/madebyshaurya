@@ -6,7 +6,7 @@
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaurya50211?tab=repositories](https://github.com/Shaurya50211?tab=repositories)
+- Check
 
 - 💬 Ask me about **Swift and iOS Development & Tech**
 
@@ -21,8 +21,6 @@
 
 <h2>My Skills</h2>
 
-![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript&theme=light)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shaurya50211&theme=swift&hide_border=true)
+![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript,react,nextjs&theme=light)
 
 <p><img align="center" src="https://holopin.me/thechosenone" alt="holopin-board"/></p>
