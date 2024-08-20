@@ -6,8 +6,6 @@
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- Check
-
 - 💬 Ask me about **Swift and iOS Development & Tech**
 
 - 📫 How to reach me **shaurya50211@gmail.com**
@@ -21,6 +19,6 @@
 
 <h2>My Skills</h2>
 
-![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript,react,nextjs&theme=light)
+![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript,react,nextjs,typescript&theme=light)
 
 <p><img align="center" src="https://holopin.me/thechosenone" alt="holopin-board"/></p>
