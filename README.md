@@ -10,13 +10,7 @@
 
 - 📫 How to reach me **shaurya50211@gmail.com**
 
-- ⚡ Fun fact **I am learning Guitar 🎸!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://twitter.com/shaurya50211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaurya50211" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/shaurya-gupta-b32794249/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="shaurya50211" height="30" width="40" /></a>
-</p>
-
+- 🌍 Check out my website for more about me at [shauryag.com](https://shauryag.com)
 <h2>My Skills</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript,react,nextjs,typescript&theme=light)
